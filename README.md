@@ -68,7 +68,7 @@ Revenue Tier
 
 Platinum contributes the highest revenue share.
 
-Tech Stack
+🛠️ Tools & Technologies
 List the key technologies used to build the dashboard.
 
 Example: The dashboard was built using the following tools and technologies:
