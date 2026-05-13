@@ -10,26 +10,26 @@ The goal of this project is to provide actionable insights for improving operati
 
 📊 Key Highlights
 🚦 Ride Activity & Efficiency
-Peak Hours: 5 PM – 7 PM
+• Peak Hours: 5 PM – 7 PM
 
-Rides per Hour: 12.5k
+• Rides per Hour: 12.5k
 
-Average Ride Duration: 18 minutes
+• Average Ride Duration: 18 minutes
 
-Ride Efficiency: 45%
+• Ride Efficiency: 45%
 
 📈 Booking Summary
-Total Bookings: 150K
+• Total Bookings: 150K
 
-Cancelled Rides: 10.5K
+• Cancelled Rides: 10.5K
 
 Monthly Booking Trend: Peaks in January (13K) and February (12K)
 💳 Payment Method Insights
 UPI, Cash, Wallet, Credit Card, Debit Card
 
-Highest share: 24.91% (Cash)
+• Highest share: 24.91% (Cash)
 
-Lowest share: 6.76% (UPI)
+• Lowest share: 6.76% (UPI)
 
 💰 Revenue Insights
 Revenue varies significantly by day, month, and vehicle type
@@ -39,32 +39,32 @@ Revenue per KM analyzed across distance categories (Short, Medium, Long, Extra�
 ❌ Cancellation Analysis
 From 132.5K total bookings, 33.1K were cancelled (25% cancellation rate).
 
-Customer Cancellation Reasons
+• Customer Cancellation Reasons
 Each major reason contributed 20%.
 
-Driver Cancellation Reasons
+• Driver Cancellation Reasons
 Each major reason contributed 25%.
 
 🌆 Day-Part & Revenue Tier Analysis
 Day-Part Performance
-Morning
+• Morning
 
-Afternoon
+• Afternoon
 
-Evening
+• Evening
 
-Night
+• Night
 
 Evening and Night show the highest booking value contribution.
 
 Revenue Tier
-Platinum
+• Platinum
 
-Diamond
+• Diamond
 
-Gold
+• Gold
 
-Other
+• Other
 
 Platinum contributes the highest revenue share.
 
@@ -78,11 +78,10 @@ Example: The dashboard was built using the following tools and technologies:
 • 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
 
 🚀 Future Enhancements
-Predictive modeling for demand forecasting
+• Predictive modeling for demand forecasting
 
-Driver performance scoring
+• Driver performance scoring
 
-Surge pricing optimization
+• Surge pricing optimization
 
-Customer churn prediction
-• 📁 File Format – .pbix for development and .png for dashboard previews.
+• Customer churn prediction
