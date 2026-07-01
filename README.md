@@ -1,4 +1,4 @@
-🚖 City Ride Analysis – Data Analytics Project
+🚖 City Ride Analysis – Data Analytics Project(Power BI)
 A comprehensive exploration of ride‑sharing performance, revenue, cancellations, and customer experience.
 
 📌 Overview
